@@ -1,0 +1,6 @@
+{
+  "name": "Apple Support",
+  "description": "Get help for your Apple devices and services. Schedule Genius Bar repairs, check AppleCare coverage, follow step-by-step troubleshooting, and connect with Apple specialists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
